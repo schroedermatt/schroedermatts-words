@@ -1,2 +1,3 @@
 User-agent: *
-Disallow:
+
+sitemap: https://schroedermatt.com/sitemap.xml
